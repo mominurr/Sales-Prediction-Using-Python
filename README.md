@@ -23,7 +23,7 @@ This project aims to predict sales based on advertising budgets in different med
 **Model Use**: After training, this model is used for prediction. For prediction, run `app.py` file.
 
 ## Video Representation
-Check out the video representation of the project for a more interactive and engaging overview: [Sales Price Prediction Video](https://youtu.be/4Fk8Sjj6dc4)
+Check out the video representation of the project for a more interactive and engaging overview: [Sales Price Prediction Video](https://youtu.be/NaWSknn7TlY)
 
 ## Requirements
 Ensure you have the following libraries installed to run the script:
