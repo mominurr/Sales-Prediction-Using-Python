@@ -46,9 +46,8 @@ or
 To use this project, follow these steps:
 1. Ensure you have Python installed on your machine.
 2. **For Training:**
-   - Clone the repository: `git clone https://github.com/mominurr/oibsip_task5`
+   - Clone the repository: `git clone https://github.com/mominurr/Sales-Prediction-Using-Python.git`
    - Install the required libraries: `pip install -r requirements.txt`
-   - Run the script: `python sales-predictor.py`
 3. **For Prediction:**
    - Run the script: `python app.py`
 
@@ -56,4 +55,4 @@ To use this project, follow these steps:
 This project leverages a linear regression model to predict sales from advertising budgets in various mediums. Through data analysis and visualization, we gained insights into the relationships between TV, Radio, Newspaper, and Sales. The model demonstrates strong performance with low MSE, high R-squared, and minimal MAE. The Flask web application provides a user-friendly interface for making real-time sales predictions. This project serves as a robust foundation for leveraging machine learning in marketing and decision-making processes.
 
 ##Author:
-[Mominur Rahman](https://github.com/mominurr)
+[Mominur Rahman](https://mominur.dev/)
